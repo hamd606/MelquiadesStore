@@ -22,7 +22,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Sundaymarket
+  cd MelquiadesStore
 ```
 
 Install dependencies
