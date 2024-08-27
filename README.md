@@ -48,8 +48,8 @@ Start the server
 
 ## Usage
 
-   - Access the website through 
-https://hamd606.github.io/MelquiadesStore
+   - Access the website locally through :
+     http://localhost:3000
 ## DEMO
 
 https://youtu.be/hV4mg4bPJkk
